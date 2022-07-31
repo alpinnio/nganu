@@ -1,12 +1,12 @@
 {
   "owner": [
-    "6285236189413@s.whatsapp.net"
+    "6288210072756@s.whatsapp.net"
   ],
   "api": {
     "masgi": "https://masgimenz.my.id"
   },
   "autoPost": false,
-  "autoRead": true,
+  "autoRead": false,
   "composing": true,
   "PORT": 3000,
   "session_id": "50524527805%3ADP2Oi8mjkpj1wg%3A1",
